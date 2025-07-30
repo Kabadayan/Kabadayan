@@ -11,8 +11,8 @@ I’m a backend developer with a strong focus on Python and Django web framework
     <img alt="Total stars" title="Total stars on GitHub" src="https://img.shields.io/github/stars/Kabadayan?color=55960c&style=for-the-badge&logo=star&logoColor=white"/></a>
   <a href="https://github.com/Kabadayan?tab=followers">
     <img alt="Followers" title="Follow me on GitHub" src="https://img.shields.io/github/followers/Kabadayan?color=236ad3&style=for-the-badge&logo=person-add&logoColor=white"/></a>
-  <a href="https://github.com/Kabadayan/Simple-View-Counter">
-    <img alt="Views" title="GitHub profile views" src="https://img.shields.io/static/v1?label=Views&message=Kabadayan&color=yellow&style=for-the-badge&logo=eye&logoColor=black"/></a>
+  <a href="https://visitor-badge.glitch.me/badge?page_id=Kabadayan.visitor-counter">
+    <img alt="Visitor Badge" src="https://visitor-badge.glitch.me/badge?page_id=Kabadayan.visitor-counter"/></a>
 </p>
 
 ---
