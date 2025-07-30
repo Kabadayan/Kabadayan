@@ -8,11 +8,9 @@ I’m a backend developer with a strong focus on Python and Django web framework
   <a href="https://www.linkedin.com/in/dkabadayan">
     <img alt="LinkedIn" title="Connect with me on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/Kabadayan?tab=repositories&sort=stargazers">
-    <img alt="Total stars" title="Total stars on GitHub" src="https://img.shields.io/github/stars/Kabadayan?color=55960c&style=for-the-badge&logo=star&logoColor=white"/></a>
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Kabadayan?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
   <a href="https://github.com/Kabadayan?tab=followers">
-    <img alt="Followers" title="Follow me on GitHub" src="https://img.shields.io/github/followers/Kabadayan?color=236ad3&style=for-the-badge&logo=person-add&logoColor=white"/></a>
-  <a href="https://visitor-badge.glitch.me/badge?page_id=Kabadayan.visitor-counter">
-    <img alt="Visitor Badge" src="https://visitor-badge.glitch.me/badge?page_id=Kabadayan.visitor-counter"/></a>
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Kabadayan?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </p>
 
 ---
