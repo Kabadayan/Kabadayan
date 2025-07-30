@@ -1,4 +1,4 @@
-# 💻 Hi there, I'm Kabadayan 👋
+# Hi there, I'm Kabadayan 👋
 
 **`Backend Developer`**
 
@@ -17,7 +17,8 @@ I’m a backend developer with a strong focus on Python and Django web framework
 
 ## 📌 About Me
 
-- 🎓 I’m a passionate backend developer with a Bachelor's degree in Computer Science 🎓
+- 💻 Backend developer
+- 🎓 Bachelor's degree in Computer Science
 - 🌱 Enhancing Django skills
 - 🛠️ Web Development focus
 - 📚 Currently studying Design Patterns
