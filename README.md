@@ -4,7 +4,7 @@
 
 I’m a backend developer with a strong focus on Python and Django web framework, and a Bachelor's degree in Computer Science. I started my career working with Oracle Cloud technologies (OIC), where I gained significant experience in building scalable and high-performance systems. Now, I’m transitioning into web development, specializing in Python, Django, PostgreSQL and Google Cloud. I’m passionate about creating efficient, robust web applications and continuously improving my skills by exploring new technologies and best practices. Always open to new challenges and eager to collaborate with teams to build innovative solutions.
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/dkabadayan">
     <img alt="LinkedIn" title="Connect with me on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/Kabadayan?tab=repositories&sort=stargazers">
