@@ -24,7 +24,7 @@ With a background in Computer Science and hands-on experience in database mainte
 - 🌱 Currently learning: statistics, machine learning & big data tools
 - ⚡ Continuous learning everything
 
---
+---
 
 ## 🔍 What I'm Focused On
 - 📐 Data Analysis & Visualization
