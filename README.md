@@ -1,8 +1,8 @@
 # Hi there, I'm Kabadayan 👋
 
-**`Backend Developer`**
+**`Data Analyst`** | **`Data Scientist in Progress`**
 
-I’m a backend developer with a strong focus on Python and Django web framework, and a Bachelor's degree in Computer Science. I started my career working with Oracle Cloud technologies (OIC), where I gained significant experience in building scalable and high-performance systems. Now, I’m transitioning into web development, specializing in Python, Django, PostgreSQL and Google Cloud. I’m passionate about creating efficient, robust web applications and continuously improving my skills by exploring new technologies and best practices. Always open to new challenges and eager to collaborate with teams to build innovative solutions.
+With a background in Computer Science and hands-on experience in database maintenance and Oracle Cloud technologies, I’ve shifted my focus to the world of data. I’m deeply interested in mathematics and statistics, and how they can be applied to understand patterns, make predictions, and support better decision-making. Today, I focus on transforming raw data into meaningful stories, combining analytical thinking with technical skills to explore data and uncover what’s hidden beneath it.
 
 <p align="left">
   <a href="https://www.linkedin.com/in/dkabadayan">
@@ -17,22 +17,42 @@ I’m a backend developer with a strong focus on Python and Django web framework
 
 ## 📌 About Me
 
-- 💻 Backend developer
+- 📊 Transitioning into Data Analysis & Data Science
 - 🎓 Bachelor's degree in Computer Science
-- 🌱 Enhancing Django skills
-- 🛠️ Web Development focus
-- 📚 Currently studying Design Patterns
+- 🧠 Strong foundation in logic, systems, and backend architecture
+- 📈 Passionate about extracting insights and telling stories with data
+- 🌱 Currently learning: statistics, machine learning & big data tools
 - ⚡ Continuous learning everything
+
+--
+
+## 🔍 What I'm Focused On
+- 📐 Data Analysis & Visualization
+- 🧪 Exploratory Data Analysis (EDA)
+- 🧩 SQL mastery & data modeling
+- ⚙️ Building data pipelines
+- 🤖 Machine Learning fundamentals
+- 🌐 Big Data processing
 
 ---
 
 ## 🧰 Languages and Tools
 
 <img align="left" alt="Python" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-<img align="left" alt="Django" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" />
-<img align="left" alt="Git" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+<img align="left" alt="Pandas" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" />
+<img align="left" alt="NumPy" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg"
+/>
+<img align="left" alt="Matplotlib" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original-wordmark.svg"
+/>
+<img align="left" alt="Scikit-Learn" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg"
+/>
+<img align="left" alt="Git" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
+/>
 <img align="left" alt="Docker" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
-<img align="left" alt="GCP" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" />       
-<img align="left" alt="PostgreSQL" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+<img align="left" alt="GCP" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg"
+/>       
+<img align="left" alt="PostgreSQL" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"
+/>
 <img align="left" alt="Oracle" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" />
+          
 <br />    
